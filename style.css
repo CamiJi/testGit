@@ -1,8 +1,9 @@
 body {
-    background-color: greenyellow
+    background-color: blue
 }
 
 h1 {
+    color: aliceblue;
     padding-top: 20%;
     padding-bottom: 20%;
     text-align: center;
